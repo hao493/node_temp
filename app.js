@@ -8,6 +8,7 @@ var session = require("express-session")
 
 //cnpm iexpress    body-parser   cookie-parser   express-session -S
 
+
 //res.    send(字符串)    redirect(重定向)   render_ejs(返回模板，服务器渲染)    json(前端渲染)
 
 //静态资源站
